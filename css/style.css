@@ -1,0 +1,45 @@
+.side-nav {
+    overflow: visible !important;
+}
+
+.side-nav2,
+.side-nav3,
+.side-nav4,
+.side-nav5 {
+    margin-left: 25%;
+    height: 20%;
+}
+
+.dropdown-content {
+    margin-top: 65px;
+}
+
+.parallax img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}
+
+.shopp img {
+    margin-left: 57%;
+    margin-top: 1%;
+}
+
+.row .col.l3 {
+    width: 25%;
+    margin-left: auto;
+    left: auto;
+    right: auto;
+}
+
+.row .col.m3 {
+    width: 25%;
+    margin-left: auto;
+    left: auto;
+    right: auto;
+}
+
+.responsive-img img, video.responsive-video {
+    max-width: 100%;
+    height: auto;
+}
