@@ -39,7 +39,12 @@
     right: auto;
 }
 
-.responsive-img img, video.responsive-video {
+.responsive-img img,
+video.responsive-video {
     max-width: 100%;
     height: auto;
+}
+
+.row {
+    align-content: center;
 }
